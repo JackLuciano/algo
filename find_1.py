@@ -1,3 +1,5 @@
+# https://www.spoj.com/problems/TTBRM/en/
+
 def finder(n, m, d, stations):
     stations.sort()
     total_fuel = 0

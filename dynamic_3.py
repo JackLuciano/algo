@@ -1,3 +1,5 @@
+#https://www.spoj.com/problems/ACODE/
+
 def dynamic(inp):
     if inp == "0":
         return 0

@@ -1,3 +1,5 @@
+#https://www.spoj.com/problems/PT07X/
+
 import sys
 from collections import defaultdict
 
